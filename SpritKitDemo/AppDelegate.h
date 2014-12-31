@@ -1,0 +1,17 @@
+//
+//  AppDelegate.h
+//  SpritKitDemo
+//
+//  Created by SQR Infotech on 22/12/14.
+//  Copyright (c) 2014 SQrInfotech. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
